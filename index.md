@@ -1,4 +1,4 @@
 ---
-**title: Welcome to my Sagefern's Blog!**
+title: Welcome to Sagefern's Blog!
 ---
 
